@@ -113,7 +113,8 @@
 p {
     color: #FFF;
     font-family: DM sans;
-    font-size: 1.1875re font-weight: 700;
+    font-size: 1.1875re ;
+    font-weight: 700;
 }
 
 a {
